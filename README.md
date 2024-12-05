@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sahana-26/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahana-26/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahana-26/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Sahana-26/LeetCode/tree/master/0036-valid-sudoku) |
@@ -26,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sahana-26/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Sahana-26/LeetCode/tree/master/0036-valid-sudoku) |
 ## Matrix
 |  |
